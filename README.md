@@ -1,6 +1,10 @@
 # iOSDarkMode
 日间夜间模式demo iOS13
 
+<img src = './pics/demo.gif' width=200>
+
+
+
  ## 1.iOS 13下增加了很多动态颜色
  view.backgroundColor = UIColor.systemBackground
  label.textColor = UIColor.label
